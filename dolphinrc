@@ -1,0 +1,15 @@
+[General]
+HomeUrl=/home/ryyan/Documents
+RememberOpenedTabs=false
+Version=202
+ViewPropsTimestamp=2025,8,26,21,2,58.808
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=comicbookthumbnail,audiothumbnail,kraorathumbnail,opendocumentthumbnail,appimagethumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,svgthumbnail,exrthumbnail,imagethumbnail,windowsexethumbnail,jpegthumbnail,windowsimagethumbnail,directorythumbnail,jxl,librsvg,gdk-pixbuf-thumbnailer
