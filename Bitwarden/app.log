@@ -1,0 +1,55 @@
+[2026-06-22 16:37:38.790] [info]  No state version found, assuming empty state.
+[2026-06-22 16:37:39.695] [info]  [Process Isolation] Isolating process from debuggers and memory dumps
+[2026-06-22 16:37:39.721] [info]  [NAPI] [INFO] desktop_core::process_isolation::process_isolation: Disabling ptrace and memory access for main via PR_SET_DUMPABLE. pid=1493
+[2026-06-22 16:37:39.798] [info]  Coredumps are disabled in renderer process
+[2026-06-22 16:37:42.066] [info]  [Native Messaging IPC] Clearing connected apps
+[2026-06-22 16:37:42.078] [info]  State version: 75
+[2026-06-22 16:37:42.107] [error] Unhandled error in angular Error: Error invoking remote method 'sshagent.clearkeys': Error: No handler registered for 'sshagent.clearkeys'
+[2026-06-22 16:37:42.146] [info]  Retrieving application id
+[2026-06-22 16:37:50.038] [info]  Retrieving application id
+[2026-06-22 16:37:50.073] [info]  Retrieving application id
+[2026-06-22 16:37:52.348] [info]  Retrieving application id
+[2026-06-22 16:37:53.880] [info]  [KeyService] Deriving master key took 974ms
+[2026-06-22 16:37:53.898] [info]  Retrieving application id
+[2026-06-22 16:38:27.280] [info]  Active account changed, clearing SSH keys
+[2026-06-22 16:38:27.335] [error] Failed to clear SSH keys Error: Error invoking remote method 'sshagent.clearkeys': Error: No handler registered for 'sshagent.clearkeys'
+[2026-06-22 16:38:27.460] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 51c85ab8-ab35-4ee1-ae49-b23701287e42_accessTokenKey
+[2026-06-22 16:38:27.463] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:27.474] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:27.480] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 51c85ab8-ab35-4ee1-ae49-b23701287e42_accessTokenKey
+[2026-06-22 16:38:27.485] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:27.488] [error] SetAccessToken: storing encrypted access token in secure storage failed. Falling back to disk storage. Error: New Access token key unable to be retrieved from secure storage.
+[2026-06-22 16:38:27.500] [info]  Using SignalR for server notifications
+[2026-06-22 16:38:27.507] [error] [Credential Storage Listener] setPassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:27.517] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 51c85ab8-ab35-4ee1-ae49-b23701287e42_accessTokenKey
+[2026-06-22 16:38:27.522] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 51c85ab8-ab35-4ee1-ae49-b23701287e42_refreshToken
+[2026-06-22 16:38:27.524] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:27.528] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:27.531] [error] SetRefreshToken: storing refresh token in secure storage failed. Falling back to disk storage. Error: Refresh token failed to save to secure storage.
+[2026-06-22 16:38:27.545] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 51c85ab8-ab35-4ee1-ae49-b23701287e42_accessTokenKey
+[2026-06-22 16:38:27.545] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:27.688] [error] [Credential Storage Listener] deletePassword failed Error: DBus error service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:27.735] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 51c85ab8-ab35-4ee1-ae49-b23701287e42_accessTokenKey
+[2026-06-22 16:38:27.738] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:27.753] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 51c85ab8-ab35-4ee1-ae49-b23701287e42_accessTokenKey
+[2026-06-22 16:38:27.760] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:28.043] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2026-06-22 16:38:28.046] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2026-06-22 16:38:28.482] [info]  Active account changed, clearing SSH keys
+[2026-06-22 16:38:28.496] [error] Failed to clear SSH keys Error: Error invoking remote method 'sshagent.clearkeys': Error: No handler registered for 'sshagent.clearkeys'
+[2026-06-22 16:38:28.565] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 51c85ab8-ab35-4ee1-ae49-b23701287e42_accessTokenKey
+[2026-06-22 16:38:28.570] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:28.782] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 51c85ab8-ab35-4ee1-ae49-b23701287e42_accessTokenKey
+[2026-06-22 16:38:28.783] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:28.793] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 51c85ab8-ab35-4ee1-ae49-b23701287e42_accessTokenKey
+[2026-06-22 16:38:28.798] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:29.129] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 51c85ab8-ab35-4ee1-ae49-b23701287e42_accessTokenKey
+[2026-06-22 16:38:29.135] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:29.151] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 51c85ab8-ab35-4ee1-ae49-b23701287e42_accessTokenKey
+[2026-06-22 16:38:29.157] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:29.283] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 51c85ab8-ab35-4ee1-ae49-b23701287e42_accessTokenKey
+[2026-06-22 16:38:29.290] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:29.421] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 51c85ab8-ab35-4ee1-ae49-b23701287e42_accessTokenKey
+[2026-06-22 16:38:29.432] [error] [Credential Storage Listener] getPassword failed Error: service error org.freedesktop.zbus.Error: The name is not activatable
+[2026-06-22 16:38:29.583] [info]  [CipherService]: decrypt complete took 88.10000000000582 [ [ 'Items', 24 ] ]
+[2026-06-22 16:38:29.957] [info]  [SearchService]: index complete took 348.3999999999942 [ [ 'Items', 24 ] ]

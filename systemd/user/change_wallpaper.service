@@ -1,0 +1,9 @@
+[Unit]
+Description=Mudar papel de parede usando SWWW
+After=swww.service
+
+[Service]
+ExecStart=/bin/bash /home/ryyan/.config/swww/swww.sh
+
+[Install]
+WantedBy=default.target

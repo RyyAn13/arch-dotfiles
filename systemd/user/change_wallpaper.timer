@@ -1,0 +1,9 @@
+[Unit]
+Description=Timer para mudar papéis de parede a cada hora
+
+[Timer]
+OnCalendar=hourly
+Persistent=true
+
+[Install]
+WantedBy=timers.target
