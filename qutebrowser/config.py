@@ -123,7 +123,7 @@ config.set('content.local_content_can_access_file_urls', False, 'file:///home/ry
 # General
 c.editor.command = ['kitty', '-e', 'nvim', '{file}', '-c', 'normal {line}G{column0}l']
 c.statusbar.show = 'in-mode'
-c.url.start_pages = "https://www.google.com"
+c.url.start_pages = "https://github.com/RyyAn13"
 c.url.default_page = "https://www.google.com"
 c.url.searchengines = {
     'DEFAULT': 'https://www.google.com/search?q={}',
