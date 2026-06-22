@@ -1,0 +1,18 @@
+#
+# ~/.bashrc
+#
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+# Get terminal title
+TITLE=$(printf '\033]0;\007' 2>/dev/null)
+
+# Only show Pokémon if title is not startup
+if [[ -z "$STARTUP" ]]; then
+    pokemon-colorscripts -r -s --no-title
+fi
+
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+PS1='[\u@\h \W]\$ '
