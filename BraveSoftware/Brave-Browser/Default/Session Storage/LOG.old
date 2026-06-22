@@ -1,3 +1,6 @@
-2026/06/22-16:36:59.871 5 Reusing MANIFEST /home/ryyan/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2026/06/22-16:36:59.872 5 Recovering log #3
-2026/06/22-16:36:59.873 5 Reusing old log /home/ryyan/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000003.log 
+2026/06/22-17:42:38.813 5 Reusing MANIFEST /home/ryyan/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2026/06/22-17:42:38.814 5 Recovering log #3
+2026/06/22-17:42:38.818 5 Reusing old log /home/ryyan/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000003.log 
+2026/06/22-17:52:21.734 7 Level-0 table #5: started
+2026/06/22-17:52:21.747 7 Level-0 table #5: 20274 bytes OK
+2026/06/22-17:52:21.753 7 Delete type=0 #3

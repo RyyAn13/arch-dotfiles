@@ -1,3 +1,6 @@
-2026/06/22-17:31:00.331 357 Reusing MANIFEST /home/ryyan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/06/22-17:31:00.331 357 Recovering log #19
-2026/06/22-17:31:00.333 357 Reusing old log /home/ryyan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000019.log 
+2026/06/22-17:51:08.841 32a Reusing MANIFEST /home/ryyan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/22-17:51:08.841 32a Recovering log #19
+2026/06/22-17:51:08.849 32a Reusing old log /home/ryyan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000019.log 
+2026/06/22-17:52:02.906 32b Level-0 table #24: started
+2026/06/22-17:52:02.997 32b Level-0 table #24: 2565229 bytes OK
+2026/06/22-17:52:03.002 32b Delete type=0 #19

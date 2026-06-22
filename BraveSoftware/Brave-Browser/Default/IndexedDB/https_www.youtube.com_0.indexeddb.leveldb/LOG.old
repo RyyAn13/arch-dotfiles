@@ -1,12 +1,3 @@
-2026/06/22-16:59:59.258 357 Reusing MANIFEST /home/ryyan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/06/22-16:59:59.260 357 Recovering log #15
-2026/06/22-16:59:59.270 357 Reusing old log /home/ryyan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000015.log 
-2026/06/22-17:02:35.853 359 Level-0 table #20: started
-2026/06/22-17:02:35.908 359 Level-0 table #20: 1905632 bytes OK
-2026/06/22-17:02:35.911 359 Delete type=0 #15
-2026/06/22-17:30:57.166 359 Compacting 1@1 + 1@2 files
-2026/06/22-17:30:57.193 359 Generated table #21@1: 343 keys, 63229 bytes
-2026/06/22-17:30:57.193 359 Compacted 1@1 + 1@2 files => 63229 bytes
-2026/06/22-17:30:57.197 359 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/06/22-17:30:57.197 359 Delete type=2 #20
-2026/06/22-17:30:57.197 359 Delete type=2 #17
+2026/06/22-17:31:00.331 357 Reusing MANIFEST /home/ryyan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/22-17:31:00.331 357 Recovering log #19
+2026/06/22-17:31:00.333 357 Reusing old log /home/ryyan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000019.log 
